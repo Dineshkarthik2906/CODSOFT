@@ -1,1 +1,1 @@
-# CODSOFT
+# Data Science & Machine Learning Projects
